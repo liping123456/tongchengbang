@@ -1,0 +1,474 @@
+/*top*/
+.top{
+	width:100%;
+	height: 35px;
+	border:1px solid #ccc;
+	border-top:none;
+	background:#f8f8f8;
+}
+.top_nav a{
+	padding: 0 14px;
+	border-right: 1px solid #ccc ;
+}
+.top_nav .lasta{
+	border-right:none;
+}
+.top_right li,
+.top_left li{
+	float:left;
+	margin-top: 8px;
+}
+
+/*logo*/
+.nav{
+	height: 70px;
+}
+.head-left{
+	margin-top:5px ;
+}
+.head-middle{
+	margin-left: 200px;
+}
+.head-middle ul li{
+	float: left;
+	margin: 25px;
+	font-size: 16px;
+}
+.head-middle ul li a:hover,
+.head-middle ul li .first-a{
+	color:green;
+}
+.head-right{
+	width:273px;
+	height: 40px;
+	padding-top: 15px;
+}
+.head-right input{
+	height:40px;
+	border: 1px solid #ccc;
+}
+.suggest{
+	position:relative;
+}
+.suggest .ip6{
+	position:absolute;
+	left: 59px;
+	top:13px;
+	background: #ccc;
+}
+.suggest .ip6p{
+	position:absolute;
+	left: 115px;
+	top:13px;
+	background: #ccc;
+}
+
+/*banner*/
+
+.banner{
+	width: 1200px;
+	height: 240px;
+	position:relative;
+}
+.banner .swiper-container{
+	 width:100%; 
+}
+.pinpai{
+	width:300px;
+	height: 240px;
+	background: rgba(51,51,51,0.6);
+	padding: 10px;
+	position:absolute;
+	left:0;
+	top:0;
+	z-index: 3;
+}
+.pin_middle div{
+	background: url('../images/8成新.png') no-repeat ;
+	color:#f50;
+}
+.pinpai ul,
+.pin_middle div span{
+	color:#fff;
+}
+.pinpai ul{
+	margin: 15px;
+}
+.pinpai a{
+	margin: 5px;
+	color:#fff;
+}
+.fangwei{
+	position: absolute;
+	right:0;
+	top:0;
+	z-index: 3;
+}
+.back_top,
+.weixin{
+	position: fixed;
+	right:30px;
+	z-index: 3;
+	
+}
+.weixin {
+	top:117px;
+}
+.back_top{
+	width:27px;
+	height: 75px;
+	background: url(../images/dingbu.png) no-repeat 0 -75px;
+	/*background-position-y: -75px;*/
+	top:453px;
+	display: none;
+	cursor: pointer;
+}
+/*苹果手机*/
+.tehui{
+	margin-top:10px ;
+	height: 180px;
+}
+#swiper-phone {
+	height: 100%;
+}
+.tehui .tehui_list{
+	margin-right: 5px;
+	display: inline-block;
+	background: #fff;
+}
+.tehui .tehui_list:hover {
+	  box-shadow: 20px 15px 100px 15px #ccc;  
+}
+.tehui .slide_img{
+	padding: 43px;
+	background: #fff;
+	width: 120px;
+	height: 180px;
+}
+.tehui .slide_img img{
+	width:80px;
+}
+.tehui .slide_txt{
+	width: 170px;
+	height: 180px;
+	padding: 19px;
+	background: #fff;
+	margin-right: 2px;
+}
+
+.tehui .slide_txt h3{
+	font-size: 14px;
+	color:#fff;
+}
+.tehui .slide_txt p{
+	color:#999;
+	margin-bottom: 10px;
+}
+.tehui .slide_txt .qianggou{
+	text-align: center;
+	color:#ccc;
+	width: 100px;
+	background:#f50;
+	display: none;
+}
+.tehui .slide_txt:hover .qianggou{
+	height: 30px;
+	display: block;
+}
+.tehui .slide_txt del{
+	text-decoration:line-through;
+	color:#999;
+}
+.tehui .slide_txt .span1{
+	color:#f50;
+	font-size: 16px;
+}
+.tehui .slide_txt .span2{
+	color:#f50;
+	font-size: 30px;
+}
+.tehui .slide_txt p:last-child{
+	margin-top: 10px;
+	color:#f50;
+	font-size: 14px;
+}
+/* //分页 */
+.page{
+	text-align: center;
+}
+.page .btn{
+	width: 30px;
+	height: 30px;
+}
+
+
+/*限时抢 无轮播图**/
+.zuixin li{
+	float:left;	
+	font-size: 18px;
+	padding: 20px;
+}
+.zuixin ul .first-li a{
+	color: #4a7;
+}
+/* 最新上架 */
+.iPhone_list .li_first{
+	background:#fff;
+	width: 230px;
+	height: 300px;
+	padding: 30px 10px 0 10px;
+	margin:6px 3px;
+	text-align: center;
+}
+.iPhone_list .li_first img{
+	width: 105px;
+	margin-left: 14px;
+}
+.iPhone_list .li_first h4{
+	color:#333;
+	margin-top: 10px;
+}
+.iPhone_list .li_first p{
+	color:#999;
+	margin-top: 8px;
+}
+.iPhone_list .li_first .price{
+	color:#f50;
+	margin-top: 8px;
+	position: relative;
+}
+.li_first #show_price{
+	font-size: 30px;
+}
+.li_first #sale_price{
+	text-indent: 8px;
+	color:#fff;
+	width: 41px;
+	height: 16px;
+	background: url(../images/sale.png) no-repeat;
+	position: absolute;
+	left: 112px;
+	top: 1px;
+}
+.li_first #original_price{
+	font-size: 12px;
+	color: #999;
+	text-decoration: line-through;
+}
+.li_first #protect_price{
+	background: #f00;
+	color:#fff;
+}
+/* 热销机型 */
+.hot_p{
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.hot_iphone ul a{
+	float:left;
+	display: block;
+	width:230px;
+	height: 300px;
+	background: #fff;
+	padding: 40px 10px 0 10px;
+	text-align: center;	
+	margin-right: 7px;
+}
+.hot_iphone ul a img{
+	width: 105px;
+	margin-bottom: 15px;
+}
+.hot_iphone ul a p:nth-of-type(1){
+	color:#999;
+	margin-top: 5px;
+}
+.hot_iphone ul a p:nth-of-type(2){
+	color:#f50;
+	font-size: 30px;
+	margin-top: 16px;	
+}
+.hot_iphone ul a p:nth-of-type(3){
+	color:#f50;
+	margin-top: 11px;
+}
+.hot_iphone .a_item .big_save p{
+	background:#f50;
+	height: 37px;
+	display: none;
+}
+.hot_iphone .a_item:hover .big_save p{
+	display:block;
+	color:#fff;
+}
+.hot_iphone .a_item:hover #hide{
+	display:none;
+}
+
+/* 品牌专区 */
+.brand_p{
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.brand_top li{
+	float:left;
+}
+.brand_top li img{
+	vertical-align: top;
+}
+/* 用户晒单 */
+ .user_title{
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+ .user_title li{
+	float:left;
+}
+.user_title li:first-child{
+	margin-right: 480px;
+}
+.user_title li:nth-of-type(2){
+	margin-right: 207px;
+}
+.user .user_list{
+	color: #666;
+	width: 400px;
+	background: #fff;
+	padding: 18px;
+	border-bottom: 1px dotted #ccc;
+}
+.user .user_list img{
+	float:left;
+}
+.user .user_list h5{
+	float:left;
+}
+.user .user_list p{
+	float:left;
+}
+.user .user_list img{
+	margin-right: 12px;
+}
+
+.user .user_list img, h5{
+	margin-bottom: 10px;
+}  
+/* 发布心愿 */
+.dream{
+	width: 390px;
+	background: #fff;
+	text-align: center;
+	margin: 0 10px;
+}
+.dream p{
+	margin: 20px;
+	color:#666;
+}
+.dream img{
+	width: 200px;
+}
+/* 关注我们 */
+.focus{
+	width: 390px;
+	height: 350px;
+	background: #fff;
+	padding: 14px 0 0 25px;
+}
+.focus img{
+	width:117px;
+	float: left;
+	margin-right: 20px;
+	vertical-align: center;
+}
+.focus .minute h3{
+	color:#4a7;
+	font-size: 24px;
+	font-weight: 700px;
+}
+.focus .minute p{
+	margin: 5px 0 27px 0;
+}
+.weibo{
+	height: 50px;
+	line-height: 50px;
+	border:1px dotted #ccc;
+	border-left: none;
+	border-right: none;
+	margin-top: 40px;
+	columns: #333333;;
+}
+.weibo h3{
+	font-size: 16px;
+	background: url(../images/weibo.jpg) no-repeat 8px 10px;
+	text-indent: 50px;
+}
+.weibo p{
+	margin-left: 30px;
+}
+/* 合作伙伴 */
+.partner{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+.partner_list img{
+	width: 197px;
+	border-bottom: 1px dotted #ccc;	
+}
+
+/* 正品保证 */
+.real_pro{
+	background: #fff;
+}
+.real_list li{
+	float: left;
+	margin:57px; 
+}
+.real_list .icon{
+	width:70px;
+	height: 70px;
+	background: url(../images/jinglintu.png) no-repeat;
+}
+.real_list .icon1{
+
+	background-position: 0 0;
+}
+.real_list .icon2{
+	background-position: -70px 0;
+}
+.real_list .icon3{
+	background-position: -140px 0;
+}
+.real_list .icon4{
+	background-position: -210px 0;
+}
+
+/* 脚部 */
+.footer{
+	width:100%;
+	color:#fff;
+	font-size: 14px;
+	text-align: center;
+	height: 120px;
+	background: #4a7;
+	padding-top: 40px;
+}
+.footer a{
+	display: block;
+	margin-top: 10px;
+	color:#fff;
+}
+
+
+
+
+
+	
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	font-size:12px;
+	font-weight: normal;
+	background: #f2f2f3;
+}
+img{
+	border: 0;
+}
+ul li{
+	list-style: none;
+}
+a{
+	color:#666;
+	text-decoration: none;
+	font-family: "微软雅黑";
+}
+.container{
+	width:1200px;
+	margin: 0 auto;
+}
+.clearfix:after{
+	content:".";
+	height: 0;
+	line-height:0;
+	visibility:hidden;
+	clear:both;
+	display: block;
+}
+.lf{
+	float:left;
+}
+.rf{
+	float:right;
+}
+

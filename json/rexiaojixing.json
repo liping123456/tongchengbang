@@ -1,0 +1,137 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": {
+        "good_list": [
+            {
+                "product_id": "2489840727497728",
+                "product_name": "",
+                "flash_status": "saling",
+                "flash_saling": 1,
+                "price": 3599,
+                "flash_price": 3498,
+                "com_price": "",
+                "discount": 0,
+                "title": "苹果 iPhone7 特价",
+                "subhead": "99成新 128G 金色",
+                "flash_start_time": "2017-12-31 00:00:00",
+                "flash_end_time": "2018-01-06 00:00:00",
+                "twelve": "322",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0127c045d93c49ca2e.jpg"
+                }
+            },
+            {
+                "product_id": "2489993503715328",
+                "product_name": "",
+                "flash_status": "saling",
+                "flash_saling": 1,
+                "price": 4499,
+                "flash_price": 4269,
+                "com_price": "",
+                "discount": 0,
+                "title": "苹果 iPhone7 Plus 特价",
+                "subhead": "99成新 128G 玫瑰金",
+                "flash_start_time": "2017-12-31 00:00:00",
+                "flash_end_time": "2018-01-06 00:00:00",
+                "twelve": "403",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01f97d6f32eafbb034.jpg"
+                }
+            },
+            {
+                "product_id": "2373750623678464",
+                "product_name": "新机品质/高性价比",
+                "flash_status": "saling",
+                "flash_saling": 1,
+                "price": 5099,
+                "flash_price": 4499,
+                "com_price": "6988",
+                "discount": 6.4,
+                "title": "苹果 iPhone 7 Plus 特惠",
+                "subhead": "99成新 128G 亮黑色",
+                "flash_start_time": "2017-12-31 00:00:00",
+                "flash_end_time": "2018-01-06 00:00:00",
+                "twelve": "457",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0130afcf898bd823f0.png"
+                }
+            },
+            {
+                "product_id": "2489993500160000",
+                "product_name": "",
+                "flash_status": "saling",
+                "flash_saling": 1,
+                "price": 4799,
+                "flash_price": 4688,
+                "com_price": "",
+                "discount": 0,
+                "title": "苹果 iPhone7 Plus 特价",
+                "subhead": "99成新 256G 黑色",
+                "flash_start_time": "2017-12-31 00:00:00",
+                "flash_end_time": "2018-01-06 00:00:00",
+                "twelve": "430",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b8fb0fac6780e0ea.jpg"
+                }
+            },
+            {
+                "product_id": "17699",
+                "product_name": "高性价比爆款，速抢手慢无！",
+                "flash_status": "saling",
+                "flash_saling": 1,
+                "price": 1899,
+                "flash_price": 1699,
+                "com_price": "6088",
+                "discount": 2.8,
+                "title": "苹果 iPhone 6S",
+                "subhead": "95成新 16 G 金色",
+                "flash_start_time": "2017-12-31 00:00:00",
+                "flash_end_time": "2018-01-06 00:00:00",
+                "twelve": "170",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013858d1cc4c417bed.jpg"
+                }
+            },
+            {
+                "product_id": "27971",
+                "product_name": "高性价比爆款，速抢手慢无！",
+                "flash_status": "saling",
+                "flash_saling": 1,
+                "price": 1669,
+                "flash_price": 1599,
+                "com_price": "6088",
+                "discount": 2.6,
+                "title": "苹果 iPhone 6S",
+                "subhead": "95成新 16 G 玫瑰金",
+                "flash_start_time": "2017-12-31 00:00:00",
+                "flash_end_time": "2018-01-06 00:00:00",
+                "twelve": "150",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t018b78f02ef6fa5500.jpg"
+                }
+            },
+            {
+                "product_id": "2374104367202304",
+                "product_name": "新机品质，极速发货，官方正品！",
+                "flash_status": "saling",
+                "flash_saling": 1,
+                "price": 3499,
+                "flash_price": 3199,
+                "com_price": "5388",
+                "discount": 5.9,
+                "title": "苹果 iPhone 7特惠",
+                "subhead": "99成新 32 G 玫瑰金",
+                "flash_start_time": "2018-01-04 00:00:00",
+                "flash_end_time": "2018-01-10 00:00:00",
+                "twelve": "313",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e4ca1bcd7c8a3acc.jpg"
+                }
+            }
+        ],
+        "jingpin_list": [],
+        "flashCount": "7",
+        "time": "2018-01-05 22:23:00"
+    }
+}

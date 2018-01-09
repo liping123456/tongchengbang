@@ -1,0 +1,73 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": {
+        "product_list": [
+            {
+                "brand_id": "2",
+                "model_id": "261",
+                "title": "苹果iPhone 6S",
+                "price": 1699,
+                "selling_point": "高性价比爆款机型，速抢，手慢无！",
+                "explain": "6折抢苹果6S 64G",
+                "content": "大内存，新机品质",
+                "link_url": "http://bang.360.cn/youpin/product?product_id=17699",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011c95154096207cf8.jpg",
+                    "big": "http://p0.qhmsg.com/t01e20a1340d4a707e8.jpg",
+                    "mid": "http://p0.qhmsg.com/t01a531ee2493ea24ac.jpg",
+                    "min": "http://p0.qhmsg.com/t01a6342a4bb00e6f82.jpg"
+                }
+            },
+            {
+                "brand_id": "4",
+                "model_id": "549",
+                "title": "华为P9",
+                "price": 999,
+                "selling_point": "4G+64G首选，后置1200万莱卡双摄",
+                "explain": "新机价4折起",
+                "content": "4G+64G/双卡双待/5.2英寸/高性价比",
+                "link_url": "http://bang.360.cn/youpin/search?brand_id=4&model_id=549",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t019d904b1d838d9dd4.jpg",
+                    "big": "http://p0.qhmsg.com/t014f14251fc3cf123a.jpg",
+                    "mid": "http://p0.qhmsg.com/t01aec1d8764ba4f16c.jpg",
+                    "min": "http://p0.qhmsg.com/t018c6a3939ce266dbc.jpg"
+                }
+            },
+            {
+                "brand_id": "2",
+                "model_id": "990",
+                "title": "苹果iPhone7 特价",
+                "price": 3498,
+                "selling_point": "最高性价比苹果机",
+                "explain": "新机品质128G 仅3599",
+                "content": "低价来袭，库存不多，速抢！",
+                "link_url": "http://bang.360.cn/youpin/product?product_id=2489840727497728",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013043373825c33599.jpg",
+                    "big": "http://p0.qhmsg.com/t0191e68e974f7a8219.jpg",
+                    "mid": "http://p0.qhmsg.com/t015fb2065813d179eb.jpg",
+                    "min": "http://p0.qhmsg.com/t01abb7d3850b2527ea.jpg"
+                }
+            },
+            {
+                "brand_id": "2",
+                "model_id": "953",
+                "title": "苹果iPhone 7 Plus 特惠",
+                "price": 3999,
+                "selling_point": "稀缺颜色，跟新机一样好",
+                "explain": "限时优惠",
+                "content": "仅7折，省1500元",
+                "link_url": "http://bang.360.cn/youpin/product?product_id=2374102458408960",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0130afcf898bd823f0.png",
+                    "big": "http://p0.qhmsg.com/t013977fff922b655cf.png",
+                    "mid": "http://p0.qhmsg.com/t0191632b273f444cb2.png",
+                    "min": "http://p0.qhmsg.com/t0196f82cdfeeb5dba9.png"
+                }
+            }
+            
+        ]
+    }
+}

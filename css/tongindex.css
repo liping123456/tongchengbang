@@ -1,0 +1,22 @@
+.header_item{
+    width: 100%;
+    height: 32px;
+    line-height: 32px;
+    background:url(../images/tongtop.png);
+    border-bottom:1px solid #c7c7c7;
+}
+.header_left li , .header_right li{
+    float: left;
+}
+.header_left li a, .header_right li a{
+    padding:0 10px;
+    border-right: 1px solid #ccc;
+}
+.header_item .last-a{
+    border:none;
+}
+.header_item a:hover{
+    border-bottom: 2px solid #ccc; 
+}
+
+
